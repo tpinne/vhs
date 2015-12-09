@@ -1,7 +1,7 @@
 TYPO3 extension VHS: Fluid ViewHelpers
 ======================================
 
-	Collection of general purpose ViewHelpers usable in the Fluid templating engine
+	Collection    of general purpose ViewHelpers usable in the Fluid templating engine
 	that's bundled with the TYPO3 CMS.
 
 ## Overview
